@@ -10,7 +10,7 @@ This project demonstrates how dual quaternions can be used
 to implement FK on the Lynx 6-dof robot arm, and how the methods 
 and results compare to that of homogeneous transformations. 
 
-Report: https://drive.google.com/file/d/1Q1VuZLtt5YkgA6B4ytIP8NMTPDeQCP1D/view?usp=sharing \
+Report: https://www.dropbox.com/s/ou234a83mgn7tpd/Dual%20Quaternion%20FK.pdf?dl=0 \
 Presentation: https://www.dropbox.com/s/sobsietfmfgoyqg/Dual%20Quaternion%20FK.pptx?dl=0
 
 ## FK Algorithm Code
